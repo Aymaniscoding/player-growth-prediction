@@ -1,9 +1,9 @@
-Overview
+Overview:
 This project explores whether a football player can realistically reach their potential rating using machine learning.
 By analysing key attributes from a FIFA dataset—such as age, playing position, overall rating, and projected potential—the model predicts player growth and provides insights into long-term development patterns.
 The goal was to understand how different characteristics influence player progression and to demonstrate how data-driven modelling can be applied in sports analytics.
 
-✨ Features
+✨ Features:
 End-to-end machine learning workflow
 Data cleaning, preprocessing, and feature engineering
 Exploratory data analysis on player attributes
@@ -11,14 +11,14 @@ Random Forest-based classification model
 Visualisations for feature importance and attribute distribution
 Dataset and prediction results included
 
-🔧 Tech Stack
+🔧 Tech Stack:
 Python
 Pandas, NumPy
 Matplotlib, Seaborn
 Scikit-Learn
 Jupyter Notebook
 
-📊 Machine Learning Approach
+📊 Machine Learning Approach:
 The model predicts whether a player will reach or fall short of their potential rating.
 Steps involved:
 Data Cleaning
@@ -30,7 +30,7 @@ Implemented using Random Forest Classifier, chosen for interpretability and stro
 Evaluation
 Assessed model accuracy, confusion matrix, and key feature contributions.
 
-📈 Insights
+📈 Insights:
 Younger players generally have a higher probability of reaching projected potential.
 Playing position shows significant influence—certain positions mature differently.
 The gap between current rating and potential rating is a strong predictor of growth trajectory.
